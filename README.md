@@ -61,5 +61,5 @@
 
 <!-- Contact / Social -->
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/your-handle
-- Twitter/X: https://x.com/your-handle
+- LinkedIn: https://www.linkedin.com/in/abhay-bansal-li
+- X: https://x.com

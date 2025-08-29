@@ -1,34 +1,34 @@
 <!-- Profile Header -->
 <div align="center">
-  <h1>Hi, I'm YOUR_NAME 👋</h1>
-  <p><b>YOUR_TAGLINE</b></p>
+  <h1>Hi, I'm Abhay 👋</h1>
+  <p><b>Graduate @NIT Raipur 2025</b></p>
 
   <!-- Badges -->
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat&color=blue" alt="profile views" />
-  <a href="https://github.com/USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=abhaybansal0&style=flat&color=blue" alt="profile views" />
+  <a href="https://github.com/abhaybansal0?tab=followers">
+    <img src="https://img.shields.io/github/followers/abhaybansal0?label=Followers&style=social" alt="followers" />
   </a>
-  <a href="https://github.com/USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/stars/USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
+  <a href="https://github.com/abhaybansal0?tab=repositories">
+    <img src="https://img.shields.io/github/stars/abhaybansal0?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
   </a>
 </div>
 
 <!-- About -->
 ## About me
-- 🔭 Currently working on: ...
-- 🌱 Learning: ...
-- 💬 Ask me about: ...
-- 📫 Reach me: YOUR_EMAIL
+- 🔭 Currently working on: Savai Education (LMS & Testing Platform)
+- 🌱 Learning: How to take a product 0 -> 1 & 1 -> 100
+- 📫 Reach me: 27abhay.bansal@gmail.com
 - 🌐 Portfolio: https://your-portfolio.example
 
 <!-- Highlights -->
 ## Featured Projects
-- [Project One](https://github.com/USERNAME/project-one) – short description
-- [Project Two](https://github.com/USERNAME/project-two) – short description
+- [Code Colab](https://github.com/abhaybansal0/Code-Colab) – short description
+- [Sav.AI](https://github.com/abhaybansal0/) – short description
 
 <!-- Tech stack (badges via shields.io) -->
 ## Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+<!-- MongoDB, Express, Nextjs, DSA, and MERN Stack mainly, AWS -->
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -40,23 +40,23 @@
 
 <!-- Streaks -->
 <div>
-  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=abhaybansal0&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
 </div>
 
 <!-- GitHub stats + Top languages -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhaybansal0&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaybansal0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
 </div>
 
 <!-- Activity graph -->
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaybansal0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </div>
 
 <!-- Trophies -->
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhaybansal0&theme=onedark&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub trophies" />
 </div>
 
 <!-- Contact / Social -->

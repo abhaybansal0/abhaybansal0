@@ -17,6 +17,7 @@
 ## About me
 - 🔭 Currently working on: Savai Education (LMS & Testing Platform)
 - 🌱 Learning: How to take a product 0 -> 1 & 1 -> 100
+- 💬 Ask me about: DSA | CP | FRONTEND | BACKEND
 - 📫 Reach me: 27abhay.bansal@gmail.com
 - 🌐 Portfolio: https://your-portfolio.example
 
